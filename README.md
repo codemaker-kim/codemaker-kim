@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=KimGawon&fontSize=50&animation=twinkling&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=KimSumin&fontSize=50&animation=twinkling&fontAlign=75)
 
 # Welcome to my GitHub! 
 <h3>Basic stack</h3>
