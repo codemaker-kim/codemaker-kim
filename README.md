@@ -15,11 +15,6 @@
 <h3>Frameworks & Libraries</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <h3>Cooperation</h3>
@@ -28,7 +23,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <h3>IDE</h3>
@@ -41,25 +35,20 @@
 
 <h3>Studying</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <h3>OS</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <h3>Blog & SNS</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/tistory-ee5e10?style=for-the-badge&logo=tistory&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=wongakim-99&show_icons=true" /> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongakim-99&hide=jupyter%20notebook&layout=compact" /> <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=codemaker-kim&show_icons=true" /> <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker-kim&hide=jupyter%20notebook&layout=compact" /> <br/>
 
 
 </div>
