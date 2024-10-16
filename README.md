@@ -29,6 +29,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCODE-40AEF0?style=for-the-badge&logo=VSCODE&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" style="height: 30px; margin: 5px;">
+  <img src="https://img.shields.io/badge/eclipse-000000?style=for-the-badge&logo=intellijidea&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=google colab&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
