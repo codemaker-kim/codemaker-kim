@@ -41,8 +41,9 @@
 <div align="center">
 </div>
 
-<h3>Blog & SNS</h3>
+<h3>Blog</h3>
 <div align="center">
+  https://velog.io/@codemaker-kim/posts
 </div>
 
 
