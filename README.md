@@ -38,9 +38,9 @@
 <div align="center">
 </div>
 
-<h3>OS</h3>
+<!--<h3>OS</h3>
 <div align="center">
-</div>
+</div>-->
 
 <h3>Blog</h3>
 <div align="center">
