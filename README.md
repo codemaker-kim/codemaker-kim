@@ -36,6 +36,7 @@
 
 <h3>Studying</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <!--<h3>OS</h3>
