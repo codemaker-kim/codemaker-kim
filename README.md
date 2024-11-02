@@ -42,7 +42,6 @@
 <!--<h3>OS</h3>
 <div align="center">
 </div>-->
-
 <h3>Blog</h3>
 <div align="center">
   https://velog.io/@codemaker-kim/posts
