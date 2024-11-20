@@ -37,7 +37,7 @@
 <h3>Studying</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=react&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="height: 30px; margin: 5px;">
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <!--<h3>OS</h3>
