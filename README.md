@@ -1,6 +1,6 @@
 <div align="left">
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e9e79db0-6c2f-41b1-8bf3-8b430d65e533" align="center" width="850" height="400">
+  <img src="https://github.com/user-attachments/assets/e9e79db0-6c2f-41b1-8bf3-8b430d65e533" align="center" width="850" height="350">
 </div>
 <H2>INTRODUCE</H2>
 I'm a lover of animation and backend development!
