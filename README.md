@@ -33,7 +33,5 @@ I'm a lover of animation and backend development!
 </div>
 
 
-
-
 <br/>
 <br/>
