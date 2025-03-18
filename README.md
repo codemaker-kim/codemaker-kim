@@ -19,7 +19,6 @@ I'm a lover of animation and backend development!
 </div>
 
 
-
 <h3>Studying</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=react&logoColor=white" style="height: 30px; margin: 5px;">
