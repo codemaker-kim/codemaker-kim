@@ -30,6 +30,5 @@ I'm a lover of animation and backend development!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker-kim&hide=jupyter%20notebook&layout=compact" /> 
 </div>
 
-
 <br/>
 <br/>
