@@ -17,12 +17,13 @@ I'm a lover of animation and backend development!
 <h3>Frameworks</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" style="height: 30px; margin: 5px;">
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="height: 30px; margin: 5px;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <h3>Studying</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=react&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="height: 30px; margin: 5px;">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <br/>
