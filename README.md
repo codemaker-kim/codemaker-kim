@@ -28,8 +28,7 @@ I'm a lover of animation and backend development!
 
 <br/>
 <div style="display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=codemaker-kim&show_icons=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker-kim&hide=jupyter%20notebook&layout=compact" /> 
+<img src="https://github-stats-extended.vercel.app/api?username=codemaker-kim&show_icons=true&hide_border=true&theme=transparent"&align=center/>
 </div>
 
 <br/>
