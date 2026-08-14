@@ -24,6 +24,7 @@ I'm a lover of animation and backend development!
 <h3>Studying</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" style="height: 30px; margin: 5px;">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <br/>
